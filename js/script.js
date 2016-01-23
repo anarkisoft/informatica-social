@@ -1,0 +1,3 @@
+
+ alert('Hola');
+ $("#tabla").DataTable();
